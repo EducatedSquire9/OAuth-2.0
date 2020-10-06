@@ -1,4 +1,4 @@
-#Directions to launch the project
+# Directions to launch the project
 
 1. This repository contains a Spring Boot application created for the purpose of having authorization done by OAuth 2.0.
 2. From the main branch the zip file can be downloaded to your PC and be opened in Eclipse IDE (The version used for creating this application is Eclipse 2020-03).
